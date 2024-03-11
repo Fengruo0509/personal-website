@@ -6,9 +6,15 @@ about:
         - icon: linkedin
           text: LinkedIn
           url: https://www.linkedin.com/in/fengruo-zhang/ 
+        - icon: github
+          text: Github
+          url: https://github.com/Fengruo0509
+        - icon: inbox-fill
+          text: Email
+          url: "mailto:fzhang01@g.ucla.edu"
+          
 image: profile-picture.JPG
 ---
 
-
-
+## Heading 1
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

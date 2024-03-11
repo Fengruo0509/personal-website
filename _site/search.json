@@ -16,7 +16,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Fengruo Zhang",
+    "title": "",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#heading-1",
+    "href": "index.html#heading-1",
+    "title": "",
     "section": "",
     "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
