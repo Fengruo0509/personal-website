@@ -8,6 +8,8 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
+      - href: photos.qmd
+        text: Photo
       - href: about.qmd
         text: Bio
       

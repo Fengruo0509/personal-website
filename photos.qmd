@@ -1,0 +1,34 @@
+---
+toc: true
+about:
+    template: trestles
+    links:
+        - icon: instagram
+          text: Instagram
+          url: https://www.instagram.com/c_o_photo_c_o?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr
+          
+image: my_photo.JPG
+---
+
+## Winter Scenes at HIghway 101 (2023)
+During the winter of 2023, I had the opportunity to capture sunning scene scenes along Highway 101. The chilly air and the serene landscapes created a picturesque setting for photography. As the sun dipped below the horizon, casting a golden hue across the sky, the rugged coastline transformed into a scene of tranquil beauty. The crashing waves added a dynamic element to the composition, creating a sense of movement and vitality in each frame. From secluded coves to expansive sandy stretches, each beach along the highway provided its own unique backdrop for capturing the magic of winter sunsets. As I drove along the winding roads, I couldn't resist stopping at various viewpoints to immortalize the scenes through my lens. These photos serve as a reminder of the tranquility and magnificence of the winter season along Highway 101.
+
+1. ![The Edge](1.jpg)
+2. ![The Mount](2.jpg)
+3. ![Twilight](3.jpg)
+4. ![The wave](4.jpg)
+5. ![Broken Frame](8.jpg)
+6. ![On Moon](9.jpg)
+7. ![Dawn](10.jpg)
+8. ![Mermaid sand](11.jpg)
+
+## Yellowstone National Park(2023)
+Venturing into the winter wonderland of Yellowstone National Park in 2023 was an unforgettable experience. The landscape, blanketed in pristine snow, transformed the park into a breathtaking scene straight out of a fairy tale. Majestic snow-capped mountains towered over the horizon, casting their imposing shadows against the glistening white backdrop. Among the highlights was a chance encounter with a raven, adding a touch of wilderness mystique to the serene surroundings. These photos capture the raw beauty and tranquility of Yellowstone in its winter splendor.
+
+1. ![Snowy Mountain View](Masterpiece.jpg)
+2. ![Holy Snowy Mountain](Cross view.jpg)
+3. ![Lake Forest](Forest duck.jpg)
+4. ![Raven Encount](Raven.jpg)
+
+## Reflection
+As I reflect on my recent trip, I'm filled with anticipation to share more of the captivating moments captured through my lens. While I've already shared some glimpses of the journey, there's still so much more to unveil. From the breathtaking beach sunsets to the tranquil snow-covered landscapes, each photo holds a piece of the adventure. Stay tuned for future uploads as I continue to share the wonders and beauty discovered along the way. There's plenty more to come, and I can't wait to take you on this visual journey with me.
