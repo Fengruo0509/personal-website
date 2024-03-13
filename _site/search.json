@@ -2,23 +2,44 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "",
+    "title": "My projects",
     "section": "",
-    "text": "Here you can demonstrate your projects"
+    "text": "The Impact of Taylor Swift: This project, conducted by a group of 4, aimed to analyze how the shift of Taylor Swift’s style from country to pop has increased her album popularity and how the relationship between musicology features such as lyrics and abstract features such as energy level and valence level reflects the emotional experiences of Gen Z. We utilized HumSpace (A UCLA Domains Project) to create the website. To obtain a dataset of Taylor Swift’s albums, we leveraged the Spotify API. Using the spotifyr library in R, we were able to call the Spotify API directly within R for data collection and analysis.  Tools Used: HumSpace, Spotify API, R, Tableau"
+  },
+  {
+    "objectID": "projects.html#digital-humanity",
+    "href": "projects.html#digital-humanity",
+    "title": "My projects",
+    "section": "",
+    "text": "The Impact of Taylor Swift: This project, conducted by a group of 4, aimed to analyze how the shift of Taylor Swift’s style from country to pop has increased her album popularity and how the relationship between musicology features such as lyrics and abstract features such as energy level and valence level reflects the emotional experiences of Gen Z. We utilized HumSpace (A UCLA Domains Project) to create the website. To obtain a dataset of Taylor Swift’s albums, we leveraged the Spotify API. Using the spotifyr library in R, we were able to call the Spotify API directly within R for data collection and analysis.  Tools Used: HumSpace, Spotify API, R, Tableau"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "My name is Fengruo Zhang, and I’m a passionate individual with diverse interests and a love for exploration. Originally from the vibrant city of Zhuhai, China, located near Hong Kong and Macao. I have a deep-seated passion for leveraging data to derive insights and solve complex problems. Whether it’s analyzing trends, predicting outcomes, or uncovering hidden patterns, I find immense satisfaction in the process of extracting valuable information from data. My goal is to harness the power of data to make informed decisions and drive meaningful change in various domains.\nI find joy and fulfillment in engaging with diverse communities, creating meaningful connections, and exploring new cultures and landscapes. It’s a constant source of inspiration and discovery for me. Additionally, I have a fascination for languages and enjoy learning new ones to connect with people from different backgrounds. Currently, I am proficient in Mandarin and English, and I’m a beginner in French, Japanese, and Spanish.\nWhen it comes to artistic expression, I’m truly versatile. I know how to play several instruments including the violin, piano, guitar, and jazz drum. Each instrument allows me to explore different musical genres and express myself creatively. Whether it’s classical melodies on the violin or improvising jazz rhythms on the drum, music is a vital part of my life."
   },
   {
-    "objectID": "index.html#heading-1",
-    "href": "index.html#heading-1",
+    "objectID": "index.html#who-am-i",
+    "href": "index.html#who-am-i",
     "title": "",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "My name is Fengruo Zhang, and I’m a passionate individual with diverse interests and a love for exploration. Originally from the vibrant city of Zhuhai, China, located near Hong Kong and Macao. I have a deep-seated passion for leveraging data to derive insights and solve complex problems. Whether it’s analyzing trends, predicting outcomes, or uncovering hidden patterns, I find immense satisfaction in the process of extracting valuable information from data. My goal is to harness the power of data to make informed decisions and drive meaningful change in various domains.\nI find joy and fulfillment in engaging with diverse communities, creating meaningful connections, and exploring new cultures and landscapes. It’s a constant source of inspiration and discovery for me. Additionally, I have a fascination for languages and enjoy learning new ones to connect with people from different backgrounds. Currently, I am proficient in Mandarin and English, and I’m a beginner in French, Japanese, and Spanish.\nWhen it comes to artistic expression, I’m truly versatile. I know how to play several instruments including the violin, piano, guitar, and jazz drum. Each instrument allows me to explore different musical genres and express myself creatively. Whether it’s classical melodies on the violin or improvising jazz rhythms on the drum, music is a vital part of my life."
+  },
+  {
+    "objectID": "index.html#my-education-jouney",
+    "href": "index.html#my-education-jouney",
+    "title": "",
+    "section": "My Education Jouney",
+    "text": "My Education Jouney\nMy educational journey began in China, where I attended middle school. It was here that I laid the groundwork for my academic pursuits and developed a strong foundation for my future endeavors. After graduating from middle school, I embarked on a new chapter of my life by moving to the United States. I attended Apple Valley Christian High School, where I had the privilege of meeting my favorite host family. In my senior year, I transferred to Aquinas High School to complete my high school journey. However, the sudden onset of the pandemic brought unforeseen challenges and disruptions to my high school experience. Undeterred by the challenges, I continued my educational journey at Irvine Valley College after graduating from high school with a high GPA. With a firm desire to transfer to UCLA, I dedicated myself to academic excellence and actively participated in the Honors Program during my two years of study. Through hard work and determination, I achieved my goal and transferred to UCLA in 2022, marking a significant milestone in my educational journey."
+  },
+  {
+    "objectID": "index.html#my-volunteer-experiences",
+    "href": "index.html#my-volunteer-experiences",
+    "title": "",
+    "section": "My Volunteer Experiences",
+    "text": "My Volunteer Experiences\nThroughout my journey, I’ve had the privilege of engaging in meaningful volunteer work, contributing to the well-being of others and building connections within my community. Serving as an Advisor at The Ambassador of Hope in Irvine, I dedicated my time to crafting personalized caring cards for children undergoing treatment for tumors, tailoring messages to their unique backgrounds and preferences. This role allowed me to demonstrate empathy and sensitivity, providing a source of comfort and encouragement during challenging times. At the Fred Jordan Mission in Los Angeles, I played a pivotal role in organizing the distribution of essential daily supplies, including food items, toiletries, and household necessities, to those in need. In addition to ensuring fair and equitable distribution, I engaged with event participants to build a sense of community and support, offering information on additional resources and services available to them. Furthermore, my volunteer experience at Zhuhai Children Welfare Hospital provided me with the opportunity to offer attentive care and organize engaging activities for children, promoting social interaction and emotional well-being. These experiences have not only enriched my life but also deepened my commitment to making a positive impact in the lives of others, fostering a sense of compassion, empathy, and community involvement that continues to drive me forward.\nFeel free to connect with me on social media or explore more about my interests and adventures on my website or blog. Thank you for joining me on this journey of exploration and discovery!"
   },
   {
     "objectID": "about.html",
@@ -40,13 +61,6 @@
     "title": "",
     "section": "",
     "text": "During the winter of 2023, I had the opportunity to capture sunning scene scenes along Highway 101. The chilly air and the serene landscapes created a picturesque setting for photography. As the sun dipped below the horizon, casting a golden hue across the sky, the rugged coastline transformed into a scene of tranquil beauty. The crashing waves added a dynamic element to the composition, creating a sense of movement and vitality in each frame. From secluded coves to expansive sandy stretches, each beach along the highway provided its own unique backdrop for capturing the magic of winter sunsets. As I drove along the winding roads, I couldn’t resist stopping at various viewpoints to immortalize the scenes through my lens. These photos serve as a reminder of the tranquility and magnificence of the winter season along Highway 101.\n\n\n\n\nThe Edge\n\n\n\n\n\nThe Mount\n\n\n\n\n\nTwilight\n\n\n\n\n\nThe wave\n\n\n\n\n\nBroken Frame\n\n\n\n\n\nOn Moon\n\n\n\n\n\nDawn\n\n\n\n\n\nMermaid sand"
-  },
-  {
-    "objectID": "photos.html#gallery-start",
-    "href": "photos.html#gallery-start",
-    "title": "",
-    "section": "Gallery Start",
-    "text": "Gallery Start\n\n\n\n\nOregon 1\n\n\n\n\n\nOregon 2\n\n\n\n\n\nPhoto 3\n\n\n\n\n\nPhoto 4\n\n\n\n\n\nPhoto 5\n\n\n\n\n\nPhoto 6\n\n\n\n\n\nPhoto 7\n\n\n\n\n\nPhoto 8"
   },
   {
     "objectID": "photos.html#yellowstone-national-park2023",
