@@ -5,4 +5,5 @@
 This project, conducted by a group of 4, aimed to analyze how the shift of Taylor Swift's style from country to pop has increased her album popularity and how the relationship between musicology features such as lyrics and abstract features such as energy level and valence level reflects the emotional experiences of Gen Z. We utilized HumSpace (A UCLA Domains Project) to create the website. To obtain a dataset of Taylor Swift's albums, we leveraged the Spotify API. Using the spotifyr library in R, we were able to call the Spotify API directly within R for data collection and analysis.
 ![Swifties](pro1.png)
     Tools Used: HumSpace, Spotify API, R, Tableau
+
     
